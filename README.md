@@ -8,7 +8,7 @@ This repository contains a latex template for writing your thesis in Asian Insti
 To open this with overleaf, simply zip the entire file and upload it to overleaf.
 
 ```console
-git clone https://github.com/ruke1ire/AIT-thesis-template.git # copies the repository to your computer
+git clone https://github.com/AIT-Advanced-Robotics-Lab/AIT-Thesis-Latex-Template # copies the repository to your computer
 zip -r thesis_name.zip AIT-thesis-template # zips the repository to thesis_name.zip
 ```
 
@@ -42,7 +42,7 @@ You can use the template by entering the information to the correct files.
 - appendix.tex is where you enter your appendix
 - thesis.tex is the main file which imports all the above files (you can comment out sections you do not need.)
 
-> \* You probably will not need to touch these files
+> You will most likely not have to edit files containing \*
 
 ## Contributing
 
