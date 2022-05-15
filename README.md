@@ -12,7 +12,7 @@ git clone https://github.com/AIT-Advanced-Robotics-Lab/AIT-Thesis-Latex-Template
 zip -r thesis_name.zip AIT-thesis-template # zips the repository to thesis_name.zip
 ```
 
-> if you are subscribed to the premium overleaf, simply fork this repo and sync it with your forked repo
+> if you are subscribed to the premium overleaf package, simply fork this repo and sync it with your forked repo
 
 ### Locally compiling
 
